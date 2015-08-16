@@ -72,6 +72,7 @@ public class JakariaRenderer implements Renderer {
     private int mPositionHandle;
 	
 	/** This will be used to pass in model color information. */
+	//saif beshi khay
 	private int mColorHandle;
 	
 	/** This will be used to pass in the light position. */
